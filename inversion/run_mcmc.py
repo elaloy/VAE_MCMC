@@ -37,7 +37,9 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 References:
     
-Laloy et al., AWR (2017)
+Laloy, E., Hérault, R. , Lee, J., Jacques, D., Linde, N., Inversion using a new low-dimensional 
+	representation  of complex binary geological media based on a deep neural network, 
+	Advances in Water Resources, 2017, 110:387-405, doi:10.1016/j.advwatres.2017.09.029, 2017.
     
 Laloy, E., Vrugt, J.A., High-dimensional posterior exploration of hydrologic models      
     using multiple-try DREAMzs and high-performance computing, Water Resources Research, 
